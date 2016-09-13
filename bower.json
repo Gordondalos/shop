@@ -1,0 +1,17 @@
+{
+  "name": "shop",
+  "homepage": "https://github.com/Gordondalos/shop",
+  "authors": [
+    "Gordondalos <gordondalos@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
